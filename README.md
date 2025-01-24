@@ -1,3 +1,5 @@
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3360514" style='border:none;'></iframe>
+
 # Retro Mini Games Collection 🎮
 
 Welcome to **Retro Mini Games Collection**! This repository contains a collection of browser-based retro-inspired mini-games built with JavaScript, HTML, and CSS. Each game offers a unique experience with classic gameplay mechanics, designed for nostalgic fun.
